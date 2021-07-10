@@ -1,3 +1,7 @@
 File
 message
+<<<<<<< HEAD
 message updated
+=======
+source
+>>>>>>> a491161b1235f54c9fec16feebf97338931fbf9e
